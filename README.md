@@ -24,10 +24,8 @@ Clone o repositório ou baixe os arquivos do projeto para o seu computador.
 Abra um terminal ou prompt de comando. 
 
 ### 3. **Navegar até o Diretório do Projeto**
-
 Use o comando `cd` para navegar até o diretório onde os arquivos `.java` estão localizados. Por exemplo:
-```bash
-cd caminho/para/seu/projeto
+`bash cd caminho/para/seu/projeto'
 
 ### 4. Compile todos os arquivos .java com o comando javac. Certifique-se de que você está no diretório onde os arquivos .java estão localizados.
 código a ser colocado no terminal: javac *.java
@@ -40,6 +38,8 @@ Adicionar Contato: Insira as informações do contato quando solicitado.
 Buscar Contato: Digite o nome ou número de telefone do contato que deseja buscar.
 Remover Contato: Digite o nome ou número de telefone do contato que deseja remover.
 Listar Contatos: O programa exibirá todos os contatos armazenados.
+
+
 
 
 
