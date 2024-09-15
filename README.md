@@ -32,7 +32,7 @@ código a ser colocado no terminal: javac *.java
 
 ### 5. Execute o programa Java usando o comando java. O ponto de entrada do programa é a classe ContactManager, que contém o método main.
 
-###6. Funcionalidades do programa:
+### 6. Funcionalidades do programa:
 
 Adicionar Contato: Insira as informações do contato quando solicitado.
 Buscar Contato: Digite o nome ou número de telefone do contato que deseja buscar.
