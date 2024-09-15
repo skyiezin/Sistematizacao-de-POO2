@@ -35,8 +35,11 @@ código a ser colocado no terminal: javac *.java
 ### 6. Funcionalidades do programa:
 
 Adicionar Contato: Insira as informações do contato quando solicitado.
+
 Buscar Contato: Digite o nome ou número de telefone do contato que deseja buscar.
+
 Remover Contato: Digite o nome ou número de telefone do contato que deseja remover.
+
 Listar Contatos: O programa exibirá todos os contatos armazenados.
 
 
